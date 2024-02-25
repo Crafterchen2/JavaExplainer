@@ -8,9 +8,14 @@
 3. Motorrad motor2
 4. Auto auto1
 
-### Funktionen
-* eingang(Auto)
-* eingang(Motorrad)
+### Konstruktoren:
+* Garage(Haus2)
+* Garage(Haus2, Auto)
+* Garage(Haus2, Motorrad, Motorrad)
+
+### Funktionen:
+* eingang(Auto): boolean
+* eingang(Motorrad): boolean
 * getGeparkt(): int
 * getHaus(): Haus2
-* ausgang()
+* ausgang(): Landfahrzeug
