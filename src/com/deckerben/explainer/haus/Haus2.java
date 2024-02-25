@@ -4,7 +4,7 @@ import static com.deckerben.explainer.Tools.ausgabe;
 
 public class Haus2 {
 	
-	private int etagen = 0;
+	protected int etagen = 0;
 	
 	public Haus2(){
 		etagen = 0;
