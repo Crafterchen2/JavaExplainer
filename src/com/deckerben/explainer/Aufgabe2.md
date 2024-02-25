@@ -11,5 +11,5 @@ Ein Hochhaus ist ein Haus2.
 * sayGarage() (Siehe Anmerkung 3)
 ### Anmerkung
 1. Ist der Eingabewert kleiner als 20, passiert nichts. Ansonsten wird etagen = Eingabewert.
-2. Zusätzlich muss tiefGarage leer sein (siehe **super.abreissen(boolen)**)
+2. Zusätzlich muss tiefGarage leer sein (siehe **super.abreissen(boolean)**)
 3. Ist tiefGarage leer, wird "Tiefgarage ist leer" ausgegeben. ansonsten wird "Geparkte Fahrzeuge: *anzahl*" ausgegeben (siehe **Tools.ausgabe(String)**) 
