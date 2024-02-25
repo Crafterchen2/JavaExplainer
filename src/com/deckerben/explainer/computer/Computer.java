@@ -155,6 +155,17 @@ public class Computer {
 	}
 	
 	/**
+	 * Eine Methode mit einem bereits verwendeten Namen aber einer anderen Parameterliste, und somit einer einzigartigen Signatur.
+	 * In dieser Methode steht auch Beispielcode.
+	 */
+	private void voidMethodeMitListe(int parameter1){
+		String hallo = "Hallo ich bin ein text";
+		Object ob = new Object();
+		int zahl = 3;
+		voidMethodeMitListe(zahl,zahl + 8,hallo,ob);
+	}
+	
+	/**
 	 * Eine Methode, in der Variablen deklariert wurden.
 	 *
 	 * Aufbau Variablendeklaration: Typ Variablenname
