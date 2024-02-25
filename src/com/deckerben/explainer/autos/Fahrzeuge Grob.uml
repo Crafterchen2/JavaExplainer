@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.deckerben.explainer.autos</OriginalElement>
+  <nodes>
+    <node x="-90.0" y="346.0">com.deckerben.explainer.autos.Auto</node>
+    <node x="-47.0" y="166.0">com.deckerben.explainer.autos.LandFahrzeug</node>
+    <node x="-28.0" y="286.0">com.deckerben.explainer.autos.Motorrad</node>
+    <node x="70.0" y="346.0">com.deckerben.explainer.autos.LKW</node>
+    <node x="-28.0" y="-14.0">com.deckerben.explainer.autos.Fahrzeug</node>
+    <node x="226.5" y="346.0">com.deckerben.explainer.autos.Motorboot</node>
+    <node x="433.0" y="346.0">com.deckerben.explainer.autos.Flugzeug</node>
+    <node x="103.5" y="106.0">com.deckerben.explainer.autos.WasserFahrzeug</node>
+    <node x="397.0" y="166.0">com.deckerben.explainer.autos.LuftFahrzeug</node>
+    <node x="128.0" y="286.0">com.deckerben.explainer.autos.Segelboot</node>
+    <node x="313.5" y="286.0">com.deckerben.explainer.autos.Hubschrauber</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.deckerben.explainer.autos.LKW" target="com.deckerben.explainer.autos.LandFahrzeug" relationship="GENERALIZATION">
+      <point x="0.0" y="-14.0" />
+      <point x="113.0" y="260.0" />
+      <point x="33.0" y="260.0" />
+      <point x="0.0" y="14.0" />
+    </edge>
+    <edge source="com.deckerben.explainer.autos.Segelboot" target="com.deckerben.explainer.autos.WasserFahrzeug" relationship="GENERALIZATION">
+      <point x="0.0" y="-14.0" />
+      <point x="0.0" y="14.0" />
+    </edge>
+    <edge source="com.deckerben.explainer.autos.Motorrad" target="com.deckerben.explainer.autos.LandFahrzeug" relationship="GENERALIZATION">
+      <point x="0.0" y="-14.0" />
+      <point x="0.0" y="14.0" />
+    </edge>
+    <edge source="com.deckerben.explainer.autos.WasserFahrzeug" target="com.deckerben.explainer.autos.Fahrzeug" relationship="GENERALIZATION">
+      <point x="0.0" y="-14.0" />
+      <point x="193.0" y="80.0" />
+      <point x="33.0" y="80.0" />
+      <point x="0.0" y="14.0" />
+    </edge>
+    <edge source="com.deckerben.explainer.autos.LuftFahrzeug" target="com.deckerben.explainer.autos.Fahrzeug" relationship="GENERALIZATION">
+      <point x="0.0" y="-14.0" />
+      <point x="473.0" y="80.0" />
+      <point x="33.0" y="80.0" />
+      <point x="0.0" y="14.0" />
+    </edge>
+    <edge source="com.deckerben.explainer.autos.Motorboot" target="com.deckerben.explainer.autos.WasserFahrzeug" relationship="GENERALIZATION">
+      <point x="0.0" y="-14.0" />
+      <point x="293.0" y="260.0" />
+      <point x="193.0" y="260.0" />
+      <point x="0.0" y="14.0" />
+    </edge>
+    <edge source="com.deckerben.explainer.autos.Flugzeug" target="com.deckerben.explainer.autos.LuftFahrzeug" relationship="GENERALIZATION">
+      <point x="0.0" y="-14.0" />
+      <point x="493.0" y="260.0" />
+      <point x="473.0" y="260.0" />
+      <point x="0.0" y="14.0" />
+    </edge>
+    <edge source="com.deckerben.explainer.autos.LandFahrzeug" target="com.deckerben.explainer.autos.Fahrzeug" relationship="GENERALIZATION">
+      <point x="0.0" y="-14.0" />
+      <point x="0.0" y="14.0" />
+    </edge>
+    <edge source="com.deckerben.explainer.autos.Auto" target="com.deckerben.explainer.autos.LandFahrzeug" relationship="GENERALIZATION">
+      <point x="0.0" y="-14.0" />
+      <point x="-47.0" y="260.0" />
+      <point x="33.0" y="260.0" />
+      <point x="0.0" y="14.0" />
+    </edge>
+    <edge source="com.deckerben.explainer.autos.Hubschrauber" target="com.deckerben.explainer.autos.LuftFahrzeug" relationship="GENERALIZATION">
+      <point x="0.0" y="-14.0" />
+      <point x="393.0" y="260.0" />
+      <point x="473.0" y="260.0" />
+      <point x="0.0" y="14.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Compact" zoom="1.5" showDependencies="false" x="180.16666666666652" y="174.66666666666652" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
