@@ -4,33 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="245d7db4-1dbb-4229-aa26-4bd620ce535b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Explainer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/deckerben/explainer/ErsetzeMich.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/deckerben/explainer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/deckerben/explainer/Tools.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/deckerben/explainer/autos/Auto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/deckerben/explainer/autos/Fahrzeug.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/deckerben/explainer/autos/Fahrzeuge Grob.uml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/deckerben/explainer/autos/Fahrzeuge Voll.uml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/deckerben/explainer/autos/Flugzeug.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/deckerben/explainer/autos/Hubschrauber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/deckerben/explainer/autos/LKW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/deckerben/explainer/autos/LandFahrzeug.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/deckerben/explainer/autos/LuftFahrzeug.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/deckerben/explainer/autos/Motorboot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/deckerben/explainer/autos/Motorrad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/deckerben/explainer/autos/Segelboot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/deckerben/explainer/autos/WasserFahrzeug.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/deckerben/explainer/computer/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/deckerben/explainer/haus/Haus1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/deckerben/explainer/haus/Haus2.java" afterDir="false" />
+    <list default="true" id="245d7db4-1dbb-4229-aa26-4bd620ce535b" name="Changes" comment="Added Content">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +51,10 @@
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "reference.settings.ide.settings.uml",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": [
+    ]
   }
 }]]></component>
   <component name="RunManager">
@@ -113,8 +92,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708808423021</updated>
-      <workItem from="1708808424126" duration="11221000" />
+      <workItem from="1708808424126" duration="11533000" />
     </task>
+    <task id="LOCAL-00001" summary="Added Content">
+      <option name="closed" value="true" />
+      <created>1708819815086</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708819815086</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +110,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Added Content" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Content" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
