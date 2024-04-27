@@ -2,6 +2,7 @@
 *Ziel:* Eine Garage, in der entweder 2 Motorräder oder 1 Auto geparkt werden können. Die Garage ist einem Haus2 zugeordnet.
 
 ## Vorgehensweise:
+Erstelle die Klasse "Garage".
 ### Zu Speichern:
 1. Haus2 dasHaus
 2. Motorrad motor1

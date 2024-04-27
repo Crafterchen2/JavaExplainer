@@ -1,7 +1,7 @@
 # Aufgabe 2
 *Ziel*: Ein hochhaus hat midestens 20 Etagen und eine Garage.
 ## Vorgehensweise:
-Ein Hochhaus ist ein Haus2.
+Erstelle die Klasse Hochhaus. Ein Hochhaus ist ein Haus2.
 ### Zu Speichern
 1. final Garage tiefGarage
 ### Funktionen
